@@ -136,6 +136,7 @@ p,h3{
         grid-template-rows: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
         max-width: 1000px;
+        margin: 30vh auto 5vh;
     }
     .header{
         grid-column: 1;
